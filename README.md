@@ -1,2 +1,2 @@
-# payment-getway-integration
-This is created by the help of Traversy Media Video.
+# Ebook-seller
+Node, Express and stripe E-Book Seller with payment getway
